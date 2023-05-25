@@ -27,9 +27,9 @@
 
 ## 📊 Mis Estadísticas
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cris223511&show_icons=true&locale=en" alt="cris223511" width="500"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cris223511&" alt="cris223511" width="500"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cris223511&show_icons=true&locale=en&layout=compact" alt="cris223511" width="500" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kirby239&show_icons=true&locale=en" alt="kirby239" width="500"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirby239&" alt="kirby239" width="500"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirby239&show_icons=true&locale=en&layout=compact" alt="kirby239" width="500" /></p>
 
 ---
 
