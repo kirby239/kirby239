@@ -27,16 +27,17 @@
 
 ## 📊 Mis Estadísticas
 
-<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kirby239&show_icons=true&locale=en" alt="kirby239" width="500"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kirby239&show_icons=true&locale=en" alt="kirby239" width="500"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirby239&" alt="kirby239" width="500"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirby239&show_icons=true&locale=en&layout=compact" alt="kirby239" width="500" /></p>-->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirby239&show_icons=true&locale=en&layout=compact" alt="kirby239" width="500" /></p>
 
 ---
 
 ## 🌎 Mis Redes Sociales
 
-<!--<p align="left">
-<a href="https://fb.com/cris223511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cris223511" height="30" width="40" /></a>
+<p align="left">
+<a href="https://fb.com/kirbygod1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cris223511" height="30" width="40" /></a>
+  <!--
 <a href="https://twitter.com/cris223511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cris223511" height="30" width="40" /></a>
 <a href="https://instagram.com/chris.antps_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chris.antps_18" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC9CdEoE4egh0uHrHMn7J5lA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="christopher ps" height="30" width="40" /></a>
