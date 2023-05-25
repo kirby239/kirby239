@@ -1,13 +1,13 @@
 <p align="center"><img width="120" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
 <h2 align="center">Bienvenido a mi perfil</h2></p>
-<i><p align="center">Aquí voy a estar actualizando todos mis repositorios de los trabajos que voy a estar realizando día a día, espero que te entretengas un poco y que mis proyectos sean de gran ayuda.</p></i>
+<i><p align="center">espero que te entretengas un poco y que mis proyectos sean de gran ayuda.</p></i>
 
 ---
 
 ## 📖 Mi Biografía
 
 *SOBRE MI*
-<i><p align="justify">Hola 👋, mi nombre es Christopher Antonio, tengo 20 años y me gusta mucho programar, estudiar lenguajes de programación, digitalizar y aprender cosas nuevas que tengan que ver con lo tecnológico. Actualmente estoy estudiando la carrera Ingeniería de Sistemas de la Información en la Universidad San Ignacio de Loyola (USIL). He culminado mi carrera técnica en el Instituto San Ignacio de Loyola (2018 - 2021) e hice mi traslado a la USIL, convalidando mis cursos que llevé en mi instituto. Soy egresado técnico, estudié en la ISIL durante 3 años, culminando mi carrera técnica satisfactoriamente. Algo muy interesante de mí es que realizo prácticas fundamentales de la carrera de diseño gráfico (como digitalizar, editar fotografías, diseñar, etc) para aumentar más mi creatividad, ya que es algo muy entretenido para mí.</p></i>
+<i><p align="justify">Hola 👋, mi nombre es Kirby Mayer Damaso Chavez, tengo 22 años y me gusta mucho programar, estudiar lenguajes de programación, digitalizar y aprender cosas nuevas que tengan que ver con lo tecnológico. Actualmente he terminado mi carrera tecnica de Sistema de Desarrollo de Programacion .He culminado mi carrera técnica satisfactoriamente en el Instituto IDAT (2018 - 2021). Algo muy interesante de mí que siempre me paro Actualizando.</p></i>
 [![Twitter Follow](https://img.shields.io/twitter/follow/Cris223511?color=1DA1F2&label=Cris223511&logo=twitter&style=for-the-badge)](https://twitter.com/Cris223511)
 
 ---
