@@ -35,8 +35,3 @@
 <a href="https://www.linkedin.com/in/cris223511/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christopher PS" height="30" width="40" /></a>
 </p>-->
 
----
-
-## 🎧 Escuchando Spotify
-
-<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
