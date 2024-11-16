@@ -1,5 +1,12 @@
-<p align="center"> <img width="120" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" /> </p> <h2 align="center">🌟 Bienvenido al Mundo de la Programación 🌟</h2> <p align="center"> <i>Espero que disfrutes explorando mis proyectos y que encuentres algo útil o inspirador en ellos.</i> </p>
-
+<!--<p align="center"> <img width="120" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" /> </p> <h2 align="center">🌟 Bienvenido al Mundo de la Programación 🌟</h2> <p align="center"> <i>Espero que disfrutes explorando mis proyectos y que encuentres algo útil o inspirador en ellos.</i> </p>
+-->
+<p align="center">
+  <img width="800" src="https://via.placeholder.com/800x200.png?text=¡Bienvenido+al+Mundo+de+la+Programación!">
+</p>
+<h2 align="center">🌟 Bienvenido al Mundo de la Programación 🌟</h2>
+<p align="center">
+  <i>Espero que disfrutes explorando mis proyectos y que encuentres algo útil o inspirador en ellos.</i>
+</p>
 ---
 
 ## 📖 Mi Biografía
