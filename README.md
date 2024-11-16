@@ -1,7 +1,7 @@
 <!--<p align="center"> <img width="120" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" /> </p> <h2 align="center">🌟 Bienvenido al Mundo de la Programación 🌟</h2> <p align="center"> <i>Espero que disfrutes explorando mis proyectos y que encuentres algo útil o inspirador en ellos.</i> </p>
 -->
 <p align="center">
-  <img width="800" src="https://th.bing.com/th/id/R.a5796cc0b90866f9437c3cb75b19fdaf?rik=6ItNBLHCedbCPw&riu=http%3a%2f%2flife.unige.it%2fsites%2fdefault%2ffiles%2fstyles%2fog_image%2fpublic%2f2020-06%2funige_cyberchallenge_2019.jpg%3fh%3da141e9ea%26itok%3dNp_ci9WJ&ehk=%2fAAiISlGW0xtejyb7Skx0jLsdgJHdms2u08AEYnX%2bGg%3d&risl=&pid=ImgRaw&r=0">
+  <img src="https://th.bing.com/th/id/R.a5796cc0b90866f9437c3cb75b19fdaf?rik=6ItNBLHCedbCPw&riu=http%3a%2f%2flife.unige.it%2fsites%2fdefault%2ffiles%2fstyles%2fog_image%2fpublic%2f2020-06%2funige_cyberchallenge_2019.jpg%3fh%3da141e9ea%26itok%3dNp_ci9WJ&ehk=%2fAAiISlGW0xtejyb7Skx0jLsdgJHdms2u08AEYnX%2bGg%3d&risl=&pid=ImgRaw&r=0">
 </p>
 <h2 align="center">🌟 Bienvenido al Mundo de la Programación 🌟</h2>
 <p align="center">
