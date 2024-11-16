@@ -19,9 +19,7 @@
 
 ## 📊 Mis Estadísticas
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kirby239&show_icons=true&locale=en" alt="kirby239" width="500"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirby239&" alt="kirby239" width="500"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirby239&show_icons=true&locale=en&layout=compact" alt="kirby239" width="500" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=kirby239&show_icons=true&theme=dracula&locale=es" alt="Estadísticas de Kirby239" width="500"/> </p> <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirby239&theme=dracula" alt="Streak Stats" width="500"/> </p> <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirby239&show_icons=true&theme=dracula&locale=es&layout=compact" alt="Lenguajes Más Usados" width="500"/> </p>
 
 ---
 
