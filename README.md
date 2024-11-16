@@ -6,9 +6,8 @@
 
 ## 📖 Mi Biografía
 
-*SOBRE MI*
-<i><p align="justify">Hola 👋, mi nombre es Kirby Mayer Damaso Chavez, tengo 22 años y me gusta mucho programar, estudiar lenguajes de programación y cosas nuevas que tengan que ver con la tecnológico. Actualmente he terminado mi carrera tecnica de Sistema de Desarrollo de Programacion .He culminado mi carrera técnica satisfactoriamente en el Instituto IDAT (2019 - 2022). Algo muy interesante de mí que siempre me paro Actualizando.</p></i>
-[![instagram Follow](https://img.shields.io/twitter/follow/Cris223511?color=1DA1F2&label=kirby_27_02&logo=instagram&style=for-the-badge)](https://instagram.com/kirby_27_02)
+<p align="center"> <img width="120" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" /> </p> <h2 align="center">🌟 Bienvenido al Mundo de la Programación 🌟</h2> <p align="center"> <i>Espero que disfrutes explorando mis proyectos y que encuentres algo útil o inspirador en ellos.</i> </p>
+
 ---
 
 ## 🏆 Mis Logros
