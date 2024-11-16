@@ -22,15 +22,10 @@ Mi enfoque está en aportar soluciones creativas a problemas complejos, utilizan
 ## 🌎 Mis Redes Sociales
 
 <p align="left">
-<a href="https://fb.com/kirbygod1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cris223511" height="30" width="40" /></a>
-
-## 🌐 Conéctate Conmigo
-
-<p align="center">
-  <a href="https://www.facebook.com/tuPerfil" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" alt="Facebook" width="40" height="40" />
+  <a href="https://fb.com/KirbyDamaso" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/tuPerfil" target="_blank">
+   <a href="https://www.instagram.com/kirby_27_02" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="Instagram" width="40" height="40" />
   </a>
 </p>
