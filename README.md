@@ -25,8 +25,8 @@ Mi enfoque está en aportar soluciones creativas a problemas complejos, utilizan
   <a href="https://fb.com/KirbyDamaso" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
   </a>
-   <a href="https://www.instagram.com/kirby_27_02" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="Instagram" width="40" height="40" />
+  <a href="https://www.instagram.com/kirby_27_02" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="Instagram" width="30" height="40" />
   </a>
 </p>
 
