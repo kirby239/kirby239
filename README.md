@@ -19,6 +19,11 @@ Mi enfoque está en aportar soluciones creativas a problemas complejos, utilizan
 
 ---
 
+## 🌎 Mis Redes Sociales
+
+<p align="left">
+<a href="https://fb.com/kirbygod1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cris223511" height="30" width="40" /></a>
+
 ## 🌐 Conéctate Conmigo
 
 <p align="center">
@@ -58,11 +63,3 @@ Mi enfoque está en aportar soluciones creativas a problemas complejos, utilizan
 ## 📊 Mis Estadísticas
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=kirby239&show_icons=true&theme=dracula&locale=es" alt="Estadísticas de Kirby239" width="500"/> </p> <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirby239&theme=dracula" alt="Streak Stats" width="500"/> </p> <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirby239&show_icons=true&theme=dracula&locale=es&layout=compact" alt="Lenguajes Más Usados" width="500"/> </p>
-
----
-
-## 🌎 Mis Redes Sociales
-
-<p align="left">
-<a href="https://fb.com/kirbygod1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cris223511" height="30" width="40" /></a><!--<a href="https://www.linkedin.com/in/cris223511/" target="blank"><img 
-
