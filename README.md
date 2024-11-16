@@ -7,6 +7,7 @@
 <p align="center">
   <i>Espero que disfrutes explorando mis proyectos y que encuentres algo útil o inspirador en ellos.</i>
 </p>
+
 ---
 
 ## 📖 Mi Biografía
