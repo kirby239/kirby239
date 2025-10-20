@@ -17,14 +17,6 @@ Soy **Kirby Mayer Damaso Chavez**, Desarrollador **Full Stack** especializado en
 Mi enfoque se centra en **Java (Spring Boot)** para el backend seguro (incluyendo **JWT y OAuth 2.0**) y **Angular/TypeScript** para experiencias de usuario dinámicas. Mi objetivo es aportar soluciones creativas y eficientes, garantizando siempre las mejores prácticas y calidad de código.
 
 ---
-## 🛠️ Mi Stack de Habilidades
-
-| Categoría | Tecnologías Clave |
-| :---: | :---: |
-| **Backend Core** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30" /> Java | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="30" height="30" /> Spring Boot | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30" height="30" /> Node.js |
-| **Frontend Core** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="30" height="30" /> Angular | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" /> TypeScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30" /> HTML/CSS |
-| **Bases de Datos** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30" /> MySQL | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="30" height="30" /> PostgreSQL |
-| **Estilos/Otros** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="30" height="30" /> Bootstrap | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" /> JS |
 
 ## 🛠️ Mis Habilidades
 
