@@ -13,8 +13,11 @@
 ## 📖 Mi Biografía
 
 <p align="justify">
-Hola, soy <b>Kirby Mayer Damaso Chavez</b>, tengo una sólida experiencia como <b>Desarrollador Full Stack</b> y me especializo en diseñar y construir aplicaciones robustas, modernas y escalables, combinando habilidades tanto en el frontend, backend como en bases de datos.  
-Mi enfoque está en aportar soluciones creativas a problemas complejos, utilizando las mejores prácticas y tecnologías para garantizar resultados eficientes y de alta calidad.
+Hola, soy **Kirby Mayer Damaso Chavez**, un **Desarrollador Full Stack** con experiencia probada en la creación de **aplicaciones robustas y escalables**. 
+
+Mi stack principal se centra en **Java (Spring Boot) y Angular/TypeScript** para soluciones de alto rendimiento. Me especializo en la implementación de arquitecturas seguras, incluyendo **JWT y OAuth 2.0**, y el diseño de bases de datos con **MySQL y PostgreSQL**.
+
+Mi enfoque es transformar problemas complejos en soluciones eficientes y de alta calidad.
 </p>
 
 ---
